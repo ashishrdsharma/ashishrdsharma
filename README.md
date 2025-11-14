@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.ashishrdsharma.com](www.ashishrdsharma.com)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **ashishrdsharma@gmail.com**
 
