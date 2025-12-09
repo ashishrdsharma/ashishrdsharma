@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ashishrdsharma" target="blank"><img src="https://img.shields.io/twitter/follow/ashishrdsharma?logo=twitter&style=for-the-badge" alt="ashishrdsharma" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Node**
+- 🌱 I’m currently learning **React, NextJS, Angular, NodeJS**
 
 - 👨‍💻 All of my projects are available at [www.ashishrdsharma.com](www.ashishrdsharma.com)
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, NextJS, Angular**
 
 - 📫 How to reach me **ashishrdsharma@gmail.com**
 
